@@ -3,7 +3,6 @@ Program to simulate tokenizer in Python
 
 @author: D Samuel Joshua Viswas
 
-You can contact me through my email, dsamueljoshua@gmail.com
 Please do feel free to share and modify the code.
 """
 import sys
