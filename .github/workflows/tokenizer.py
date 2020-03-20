@@ -2,6 +2,7 @@
 Program to simulate tokenizer in Python
 
 @author: D Samuel Joshua Viswas
+Email: 48271325+samuelspectre@users.noreply.github.com
 
 Please do feel free to share and modify the code.
 """
