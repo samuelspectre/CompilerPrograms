@@ -1,4 +1,4 @@
 # CompilerPrograms
 
-Please go to the workflow folder to find programs which simulate the operations of a compiler in a Python program
+Please go to the workflows folder to find programs which simulate the operations of a compiler in a Python program
 
